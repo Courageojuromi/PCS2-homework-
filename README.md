@@ -9,11 +9,9 @@ This is my solved repository of
 #Iev
 #Kmp
 #Lia
-#Lscm
 #Lgis
 #Long
 #Pcmh
 #Prob
-#Prmt
 #Tree
 #CAt
